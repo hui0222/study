@@ -1,0 +1,18 @@
+첫번째 스터디는 git입니다.
+git으로 문서관리를 위해 git사용법을 정리하겠습니다.
+
+1. gitHub가입
+- https://github.com/
+
+2. git Repositories 생성
+경로 : Repositories > New
+- Repository name 입력
+- Description (설명) 입력
+- Public or Private (공유 및 비공개 선택)
+- Initialize this repository with a README (기본파일 생성)
+- Create repository (생성하기)
+
+3. 생성한 Repository 클릭 및 상세이동
+- Code 버튼을 클릭하여 Clone with HTTPS 주소 가져오기
+ex) https://github.com/hui0222/study.git
+- 
